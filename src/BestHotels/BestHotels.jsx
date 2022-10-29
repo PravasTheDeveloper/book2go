@@ -4,11 +4,11 @@ import RoomContent from './RoomContent'
 function BestHotels() {
     return (
         <>
-            <div className='h-screen container mx-auto py-20 overflow-hidden'>
-                <div className='h-full'>
-                    <h1 className='text-6xl m capitalize'><span className='border-teal-500 border-b-4'>Most top</span><span className='font-bold'> hotels</span></h1>
-                    <p className='text-lg pt-10'>Bed Rooms</p>
-                    <div className='pt-16 flex justify-around'>
+            <div className='container mx-auto pt-24 overflow-hidden'>
+                <div className=''>
+                    <h1 className='text-5xl m capitalize'><span className='border-teal-500 border-b-4'>Most top</span><span className='font-bold'> hotels</span></h1>
+                    <p className='text-lg py-8'>Bed Rooms</p>
+                    <div className='flex justify-between'>
                         <RoomContent image="Hotle-One.png" />
                         <RoomContent image="Hotle-Two.png" />
                         <RoomContent image="Hotle-Three.png" />

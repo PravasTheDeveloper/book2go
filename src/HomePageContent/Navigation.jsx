@@ -24,7 +24,7 @@ function Navigation() {
                             <div className='w-6 Home__Page__Search__Icon flex justify-center items-center'>
                                 <MagnifyingGlassIcon className='w-8' />
                             </div>
-                            <div className='bg-teal-500 h-full flex items-center px-5'>
+                            <div className='bg-cyan-600 h-full flex items-center px-5'>
                                 Sign In
                             </div>
                         </div>

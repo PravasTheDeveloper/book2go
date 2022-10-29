@@ -30,7 +30,7 @@ code {
 .Main__Home__Page{
   /* width: 100vw; */
   height: 100vh;
-  background: url("../public/Home__Page__BG.png");
+  background: url("../public/Home__Page__BG.jpg");
   background-color: rgba(0, 0, 0, 0.6);
   background-blend-mode: darken;
   background-position: center;
@@ -44,7 +44,7 @@ code {
 .Home__Page__Search__Icon{
   height: 100%;
   width: 70px;
-  background-color: #14b8a574;
+  background-color: #0890b2a8;
 }
 
 .Home__Page__Content{
@@ -56,12 +56,10 @@ code {
 }
 
 .Room__Content__StartValue{
-  right: -50px;
+  top: 10px;
+  right: 10px;
 }
 
-.best__hotel__box__sizing{
-  height: 550px;
-}
 
 .Sercics__All__Element{
   height: 80%;
