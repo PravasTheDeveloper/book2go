@@ -12,7 +12,7 @@ function ServicesSection() {
                     </div>
                     <div className='Sercics__All__Element flex items-center bg-white rounded-xl my_shadow absolute right-80'>
                         <div className='p-20'>
-                            <h4 className='text-3xl border-teal-500 border-b-2'>Services</h4>
+                            <h4 className='text-3xl border-cyan-600 border-b-2'>Services</h4>
                             <h2 className='text-4xl my-6 mb-12'>Strive only for the best</h2>
                             <div className='mt-10 mb-10 text-xl flex items-center'>
                                 <span className='bg-teal-200 p-2 rounded-full mr-6'><ShieldCheckIcon className='text-teal-600 h-10' /></span>
